@@ -1,1 +1,2 @@
-*.c++ linguist-language=Dart
+* linguist-vendored
+*.c++ linguist-vendored=false

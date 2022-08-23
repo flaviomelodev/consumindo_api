@@ -1,0 +1,3 @@
+$ cat .gitattibutes
+
+*.C++ linguist-language = Dart
